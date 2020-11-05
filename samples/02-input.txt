@@ -1,0 +1,16 @@
+check grouchy-magic-8619 0
+check top-frog-5042 1
+check closed-knee-348 2
+check inquisitive-shake-9051 1
+check enthusiastic-fuel-1675 0
+next
+next
+next
+next
+next
+check uninterested-rose-2739 2
+check overconfident-color-2617 1
+check haloed-vessel-8974 2
+next
+next
+next
